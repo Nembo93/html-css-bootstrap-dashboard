@@ -23,7 +23,6 @@ header{
 }
 .ms-page-container{
     height: calc(100vh - 50px);
-    background-color: aquamarine;
     display: flex;
 }
 aside{
@@ -33,7 +32,6 @@ aside{
     flex-shrink: 0;
 }
 main{
-    background-color: aqua;
     flex-grow: 1;
     overflow-y: auto;
 }
