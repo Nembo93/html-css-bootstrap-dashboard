@@ -1,0 +1,15 @@
+.ms-btn-primary{
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.ms-btn-chevrons{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+.ms-btn{
+    text-decoration: none;
+    color: white;
+}

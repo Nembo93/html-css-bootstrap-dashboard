@@ -8,3 +8,6 @@ body{
 .ms-bg-color5{
     background-color: var(--ms-six-color);
 }
+.ms-bg-color6{
+    background-color: var(--ms-seven-color);
+}
