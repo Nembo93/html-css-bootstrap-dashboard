@@ -1,2 +1,27 @@
 /* File importati */
 @import url(typography.css);
+
+
+/* MACROSTRUTTURA */
+
+/* HEADER */
+header{
+    height: 50px;
+    background-color: gray;
+    color: white;
+}
+.ms-page-container{
+    height: calc(100vh - 50px);
+    background-color: aquamarine;
+    display: flex;
+}
+aside{
+    width: auto;
+    padding: 10px;
+    background-color: blue;
+    flex-shrink: 0;
+}
+main{
+    background-color: aqua;
+    flex-grow: 1;
+}
