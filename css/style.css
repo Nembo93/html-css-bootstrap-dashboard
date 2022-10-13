@@ -24,4 +24,5 @@ aside{
 main{
     background-color: aqua;
     flex-grow: 1;
+    overflow-y: auto;
 }
