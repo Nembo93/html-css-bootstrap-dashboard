@@ -1,3 +1,10 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+.ms-color1{
+    color: var(--ms-fifth-color);
+}
+.ms-bg-color5{
+    background-color: var(--ms-six-color);
+}
