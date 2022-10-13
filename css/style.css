@@ -4,6 +4,10 @@
 @import url(debug.css);
 
 
+/* RESET */
+img{
+    width: 100%;
+}
 /* MACROSTRUTTURA */
 
 /* HEADER */
