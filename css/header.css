@@ -6,4 +6,5 @@ header i{
 }
 .ms-logo-small{
     max-width: 50px;
+    min-width: 50px;
 }
