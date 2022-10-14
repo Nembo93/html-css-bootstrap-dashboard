@@ -2,9 +2,30 @@
     width: auto;
 }
 .ms-th-small{
-    width: 100px;
+    width: 130px;
 }
 
 .ms-font-small{
-    font-size: 14px;
+    font-size: .75rem;
+}
+
+/* icon */
+main table{
+    color: gray;
+}
+.ms-code-icon{
+    border-radius: 50%;
+    padding: 5px;
+    color: white;
+    background-color: red;
+    margin-right: 5px;
+}
+.ms-table-button{
+    border: 1px solid gray;
+    border-radius: 3px;
+    background-color: white;
+    margin-right: 5px;
+}
+.ms-table-button i{
+    color: gray;
 }
