@@ -11,3 +11,15 @@ body{
 .ms-bg-color6{
     background-color: var(--ms-seven-color);
 }
+.ms-bg-color7{
+    background-color: lightgray;
+}
+.ms-color8{
+    color: var(--ms-first-color);
+}
+.ms-color9{
+    color: var(--ms-fourth-color);
+}
+.ms-bg-color9{
+    background-color: white;
+}

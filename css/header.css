@@ -5,6 +5,10 @@ header i{
     max-width: 150px;
 }
 .ms-logo-small{
-    max-width: 50px;
-    min-width: 50px;
+    max-width: 40px;
+    min-width: 40px;
+}
+#button-addon1{
+    border: none;
+    background-color: lightgray;
 }
