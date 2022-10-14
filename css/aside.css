@@ -5,6 +5,6 @@
     margin-top: auto;
 }
 aside{
-    background-image: url(//img/img/sidebar-bg.png);
-    background-color: lightslategray;
+    background-image: url(../img/img/sidebar-bg.png);
+    background-color: rgb(4, 4, 53);
 }
