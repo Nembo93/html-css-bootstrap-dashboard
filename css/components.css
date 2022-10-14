@@ -25,3 +25,10 @@
     border: 1px solid rgb(28, 114, 232);
     border-radius: 3px;
 }
+.ms-faq-button{
+    width: 100%;
+    text-align: start;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+}
