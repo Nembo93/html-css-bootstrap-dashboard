@@ -26,3 +26,6 @@ body{
 .ms-font-big{
     font-size: 50px;
 }
+.ms-card-width{
+    width: 100%;
+}
