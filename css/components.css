@@ -32,3 +32,7 @@
     display: flex;
     justify-content: space-between;
 }
+.ms-drop-window{
+    border: none;
+    width: 100%;
+}
