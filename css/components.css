@@ -13,3 +13,11 @@
     text-decoration: none;
     color: white;
 }
+.ms-drop-button{
+    border: none;
+    background-color: white;
+}
+.ms-drop-a{
+    text-decoration: none;
+    color: black;
+}
