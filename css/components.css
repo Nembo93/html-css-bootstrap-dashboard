@@ -21,3 +21,7 @@
     text-decoration: none;
     color: black;
 }
+.ms-btn-offcanvas-plus{
+    border: 1px solid rgb(28, 114, 232);
+    border-radius: 3px;
+}
